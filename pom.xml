@@ -20,7 +20,7 @@
 
   <groupId>org.projectodd.vdx</groupId>
   <artifactId>vdx-parent</artifactId>
-  <version>1.1.6</version>
+  <version>1.1.7-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>VDX Parent</name>
   <url>http://github.com/projectodd/vdx/</url>
